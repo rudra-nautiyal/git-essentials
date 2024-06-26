@@ -1,3 +1,5 @@
 This new keyboard is very tappy and quirky!
 
-This has been added as a result of mock-chapter
+This has been added as a result of the mock-chapter branch (local)
+
+This has been added as a result of the experimental branch. (GitHub)
